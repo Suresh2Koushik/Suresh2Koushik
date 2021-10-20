@@ -5,9 +5,12 @@
    💻  Hobby 3 (Movies) 
 
 <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> Reading  
-<img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px"> Programming  
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.6XhbLuMXzsAV-S72W94jgAHaHa%26pid%3DApi&f=1" width="100px"> Movies
+<br>
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1a%2F2f%2Fce%2F1a2fce9d9ad2c08b01995324bff7a9b3.jpg&f=1&nofb=1" width="100px"> Poetry
+<br>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.6XhbLuMXzsAV-S72W94jgAHaHa%26pid%3DApi&f=1" width="100px"> Movies
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +24,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-
+<br><br>
 
 <p>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
@@ -31,14 +34,14 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
-
+<br><br>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
   
-  
+  <br><br>
 | We Define Net | Period of work (01/2020 -Present) |
 |:---------:|:----------------------------------:|
 | Student Influencer | |Worked as an organizer for various public events| Represented the company in various public eevnts  |
@@ -48,7 +51,7 @@
 | Content Writer | Assited team with various aspects of the project| |Reserached industry releated topics |
 
 
-
+<br><br>
 **Hit me up in the social media>**
 
 - [Twitter](https://twitter.com/Suresh2koushik)
@@ -57,7 +60,6 @@
 
 
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 
 
@@ -74,7 +76,6 @@ Also in this section you can ad
 - 📫 How to reach me ...
 sureshkanna0812@gmail.com
 
-https://www.linkedin.com/in/suresh-kanna-70800617b/
 
 
 
