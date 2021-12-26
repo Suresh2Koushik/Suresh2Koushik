@@ -48,7 +48,8 @@ sureshkanna0812@gmail.com
 
 <br>c<br>
 
-
+<p>
+  
 | Synergy edu-services | Period of work (12/2019 - 05/2020) |
 |:---------:|:----------------------------------:|
 | Content Writer | Assited team with various aspects of the project| |Reserached industry releated topics |
@@ -59,7 +60,7 @@ sureshkanna0812@gmail.com
 | Student Influencer | |Worked as an organizer for various public events| Represented the company in various public eevnts  |
 
 <br> <br>
-
+</p>
 
 <br><br>
  
