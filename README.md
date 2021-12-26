@@ -57,7 +57,7 @@ sureshkanna0812@gmail.com
 
 | We Define Net | Period of work (01/2020 -Present) |
 |:---------:|:----------------------------------:|
-| Student Influencer | |Worked as an organizer for various public events| Represented the company in various public eevnts  |
+| Student Influencer |  | Worked as an organizer for various public events| |Represented the company in various public eevnts|
 
 <br> <br>
 </p>
