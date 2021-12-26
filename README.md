@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Suresh2Koushik
-- 
-- 👀 I’m interested in programming, ethical hacking and machine learning ...
-- 🌱 I’m currently learning python,data mining, webdevelopment ...
+- 👀 I’m interested in Cyber Security and Machine Learning domain...
+- 🌱 I’m currently learning python and webdevelopment ...
 - 💞️ I’m looking to collaborate on open source projects ...
 - 📫 How to reach me ...
 sureshkanna0812@gmail.com
@@ -46,10 +45,12 @@ sureshkanna0812@gmail.com
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
   
-  <br><br>
+  <br>c<br>
 | We Define Net | Period of work (01/2020 -Present) |
 |:---------:|:----------------------------------:|
 | Student Influencer | |Worked as an organizer for various public events| Represented the company in various public eevnts  |
+
+<br> <br>
 
 | Synergy edu-services | Period of work (12/2019 - 05/2020) |
 |:---------:|:----------------------------------:|
