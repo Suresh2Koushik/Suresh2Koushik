@@ -45,16 +45,20 @@ sureshkanna0812@gmail.com
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
   
-  <br>c<br>
+
+<br>c<br>
+
+
+| Synergy edu-services | Period of work (12/2019 - 05/2020) |
+|:---------:|:----------------------------------:|
+| Content Writer | Assited team with various aspects of the project| |Reserached industry releated topics |
+
+
 | We Define Net | Period of work (01/2020 -Present) |
 |:---------:|:----------------------------------:|
 | Student Influencer | |Worked as an organizer for various public events| Represented the company in various public eevnts  |
 
 <br> <br>
-
-| Synergy edu-services | Period of work (12/2019 - 05/2020) |
-|:---------:|:----------------------------------:|
-| Content Writer | Assited team with various aspects of the project| |Reserached industry releated topics |
 
 
 <br><br>
