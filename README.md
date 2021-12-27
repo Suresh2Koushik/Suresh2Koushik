@@ -54,12 +54,17 @@ sureshkanna0812@gmail.com
 |:---------:|:----------------------------------:|
 | Content Writer | Assited team with various aspects of the project| |Reserached industry releated topics |
 
-
-| We Define Net | Period of work (01/2020 -Present) |
-|:---------:|:----------------------------------:|
-| Student Influencer |  | Worked as an organizer for various public events| |Represented the company in various public eevnts|
+</p>
 
 <br> <br>
+
+
+<p>
+
+| We Define Net | Period of work ((01/2020 -Present) |
+|:---------:|:----------------------------------:|
+| Student Influencer | Worked as an organizer for various public events| |Represented the company in various public eevnts|
+
 </p>
 
 <br><br>
