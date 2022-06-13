@@ -105,4 +105,3 @@ I'm a postgraduate fourth year student currently undertaking a Masters (Integrat
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
