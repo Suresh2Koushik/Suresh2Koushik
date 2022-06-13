@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a postgraduate fourth year student currently undertaking a Masters (Integrated- 5 Years) Software Engineering at VIT, Chennai Campus. I have completed my schooling in Madras Christian College Higher Secondary School. My skills are in Programming through Java, C and Python MERN. And I can able to write musings poems and short stories. I have done a a research  internship at VIT Chennai during summer holidays where I have learnt about Federated learning and I have implemented few algorithms. I'm Currently working in a startup company called we define net as  as student influencer. That's a small introduction about me  
+I'm a postgraduate fourth year student currently undertaking a Masters (Integrated- 5 Years) Software Engineering at VIT, Chennai Campus. I have completed my schooling in Madras Christian College Higher Secondary School. My skills are in Programming through Java, C++ and Python MERN. And I can able to write musings poems and short stories. I have done a a research  internship at VIT Chennai during summer holidays where I have learnt about Federated learning and I have implemented few algorithms. I'm Currently working in a startup company called we define net as  as student influencer. That's a small introduction about me  
   
 
 <br/>  
