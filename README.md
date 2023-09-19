@@ -34,7 +34,7 @@ I'm a postgraduate fourth year student currently undertaking a Masters (Integrat
 - 🌱 I’m currently learning MERN and brushing up the programming   
   
 
-- ❓ Ask me about anything related to ML, Cyber security ,MERN stack and related technologies  
+- ❓ Ask me about anything related to ML, Cyber security, MERN stack, and related technologies  
   
 
 - ⚡ Fun fact: I'm a huge fan of Sydney Sheldon and Haruki Murakami writing works.  
