@@ -18,7 +18,13 @@
 
 
 ### Glad to see you here!  
-I'm a postgraduate fourth year student currently undertaking a Masters (Integrated- 5 Years) Software Engineering at VIT, Chennai Campus. I have completed my schooling in Madras Christian College Higher Secondary School. My skills are in Programming through Java, C++ and Python MERN. And I can able to write musings poems and short stories. I have done a a research  internship at VIT Chennai during summer holidays where I have learnt about Federated learning and I have implemented few algorithms. I'm Currently working in a startup company called we define net as  as student influencer. That's a small introduction about me  
+As a final-year student from VIT with a passion for engineering, I am excited to embark on a fulfilling career in software engineering. With a strong foundation in software engineering courses, including web development, big data, data mining, cloud computing, and machine learning, I bring a diverse skill set to the table.
+
+Beyond my love for coding and problem-solving, I have a secret creative side—I am an avid writer and I do write poems when the right chord strikes.In my free time, you can often find me with my nose buried in books of love poems, immersing myself in the beauty of words and emotions. I have even dabbled in writing my own poetry, expressing my thoughts and experiences in a heartfelt manner.
+
+This passion for writing extends beyond poems to other forms of creative expression as well. I have ventured into writing short stories and articles, exploring different genres and experimenting with unique storytelling techniques. It's incredible how words can capture the essence of human emotions and connect us on a deeper level.
+
+In addition to my love for engineering and writing, I am also deeply fascinated by the world of Linux and startups.Through my journey in software engineering, I aspire to bridge the gap between technology and art, finding innovative ways to blend creativity and functionality. Let's connect and explore how we can combine our shared passions for engineering and writing, creating meaningful experiences that touch both the mind and the heart. All i
   
 
 <br/>  
