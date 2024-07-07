@@ -37,10 +37,9 @@ In addition to my love for engineering and writing, I am also deeply fascinated 
  (https://github.com/Suresh2Koushik/ANIMAL-INTRUSION-DETECTION-SYSTEM )  
   
 
-- 🌱 I’m currently learning MERN and brushing up the programming   
+- 🌱 I’m currently learning  brushing up the programming   
   
 
-- ❓ Ask me about anything related to ML, Cyber security, MERN stack, and related technologies  
   
 
 - ⚡ Fun fact: I'm a huge fan of Sydney Sheldon and Haruki Murakami writing works.  
